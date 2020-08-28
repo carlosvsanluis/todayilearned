@@ -1,5 +1,9 @@
 # todayilearned
 
+Week 0
+
+Last Year I learned Comp TIA++ (Computers, Networks and Security), Anti Covid-Measures, Basics of: Python, Java Script, HTML, CSS., How to make a Napoleatana pizza dough.
+
 Week 1
 
 Today I learned the ancient art of Java. Appaerntly it is like the force; It is everywhere. Especially in Samsung phones.
